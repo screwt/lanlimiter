@@ -11,7 +11,7 @@ up /usr/sbin/wondershaper <interface réseau> <downspeed> <upspeed>
 down /usr/sbin/wondershaper clear <interface réseau>
 
 
-## Based on that page:
+## Based on these pages:
  * http://ideatrash.net/2014/07/making-wondershaper-play-nice-on-lan.html
  * https://doc.ubuntu-fr.org/qos
  
