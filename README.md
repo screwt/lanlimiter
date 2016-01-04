@@ -4,3 +4,4 @@
 ```shell
 sudo ./wondershaper eth0 2000 200
 ```
+see var LAN_SUBNET, line 42 to specifiy your local net mask
